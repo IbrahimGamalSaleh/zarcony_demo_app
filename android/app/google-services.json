@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "895685325511",
+    "project_id": "zarconydemo",
+    "storage_bucket": "zarconydemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895685325511:android:225fdfd3a9cf2a8b2e44e2",
+        "android_client_info": {
+          "package_name": "com.deeb.zarconydemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895685325511-g809n38qnvdpe7jv4uhj1je05v1cmn2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deeb.zarconydemoapp",
+            "certificate_hash": "8867aaf480ca868f710d4240a61304a3e6a9987f"
+          }
+        },
+        {
+          "client_id": "895685325511-b6k8ruuipf5hcbm0sv7bcue71uhcming.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPm6lL0oklZjoNAU8jAzWET00P9KIy5EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895685325511-b6k8ruuipf5hcbm0sv7bcue71uhcming.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
